@@ -1,5 +1,6 @@
 #name = raw_input('What is your name? ')
 #print('Hi ' + name)
-name = raw_input('What is your name?')
+#name = raw_input('What is your name?')
 age = raw_input('How old are you?')
-print(name + ' is ' + age + ' years old.')
+dog_years = age * 7
+print('You are ' + dog_years + 'old in dog years.')
