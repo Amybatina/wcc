@@ -25,3 +25,6 @@ plural_noun = 'marbles'
 name = 'Ani'
 beverage = 'chocolate milk'
 plural_body_part = 'knees'
+
+print('Excellent Choices! Here's your story')
+print('-------------------------------------')
