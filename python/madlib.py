@@ -26,7 +26,7 @@ name = 'Ani'
 beverage = 'chocolate milk'
 plural_body_part = 'knees'
 
-print()
+print("")
 print('Excellent Choices! Here is your story')
 print('-------------------------------------')
 
@@ -39,8 +39,12 @@ print("caffeinated " + beverage + " as she worked and worked")
 print("trying to complete her " + adjective4 +  " program.")
 print("")
 print("Whenever " + name + " hit a dead end, she would")
-print("exclaim * " + plural_noun + " *!")
+print("exclaim *" + plural_noun + "*!")
 print("")
 print("But she was not discouraged, and after a quick break ")
-print("to " + verb + "and clear her head, she got back to work.")
+print("to " + verb + " and clear her head, she got back to work.")
 print("")
+print("By morning, when the sun started to rise, she let out a")
+print("big yawn and stretched " + plural_body_part + ".")
+print("Finally, she was done.")
+print("---------------------------")
