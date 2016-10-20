@@ -26,5 +26,6 @@ name = 'Ani'
 beverage = 'chocolate milk'
 plural_body_part = 'knees'
 
+print()
 print('Excellent Choices! Here is your story')
 print('-------------------------------------')
