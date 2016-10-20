@@ -31,3 +31,6 @@ print('Excellent Choices! Here is your story')
 print('-------------------------------------')
 
 print("There once was a " + adjective1 + " programmer named " + name)
+print("who wanted to build a " + adjective2 + " mobile app to ")
+print("help " + adjective3 + " " + plural_animal + " find new homes.")
+print("")
