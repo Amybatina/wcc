@@ -29,3 +29,5 @@ plural_body_part = 'knees'
 print()
 print('Excellent Choices! Here is your story')
 print('-------------------------------------')
+
+print("There once was a " + adjective1 + " programmer named " + name)
