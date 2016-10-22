@@ -7,4 +7,13 @@ print(cards) # To see the list before being shuffled
 
 random.shuffle(cards)
 
-print(cards) # To see the list after being shuffled
+#print(cards) # To see the list after being shuffled
+
+# Round 1
+player_card1 = cards.pop()
+computer_card1 = cards.pop()
+
+print('Player card: ' + str(player_card1))
+print('Computer card:  ' + str(computer_card1))
+
+print(cards) # To see the list after two cards have been popped off.
