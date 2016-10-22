@@ -28,6 +28,6 @@ print('computer card:  ' + str(computer_card_1))
 
 decision = raw_input('\nIf you want to stay type `s`, if you want to hit type `h`: ')
 if decision == 's'
-print('Your card: '0')
+    print('Your card: '0')
 if decision == 'h'
-player_card2 = cards.pop()
+    player_card2 = cards.pop()
