@@ -5,7 +5,7 @@
 #
 def check_move(move):
 
-    print move = (move == 'rock' or move == 'paper' or move == 'scissors')# YOUR CODE GOES HERE
+    print(move == 'rock' or move == 'paper' or move == 'scissors')# YOUR CODE GOES HERE
 
 # Test the check_move function
 print check_move('rock') # Expects: True
