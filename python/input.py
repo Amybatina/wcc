@@ -27,5 +27,6 @@ else:
 
 tip = meal_price * percentage
 total_price = meal_price + tip
+print('You did not enter a valid option, defaulting to 20%')
 print('You should tip $' + str(tip))
 print('Your total cost would be $' + str(total_price))
